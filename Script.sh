@@ -5,3 +5,4 @@ echo "Second number is $SECONDNUMBER"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "Total is $NUM"
 echo "Automatic Build is Successful"
+echo "Automatic Build is Successful"
